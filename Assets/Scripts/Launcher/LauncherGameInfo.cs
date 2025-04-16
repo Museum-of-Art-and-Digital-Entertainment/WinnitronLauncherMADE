@@ -42,6 +42,9 @@ public class LauncherGameInfo : Tweenable {
         var info = "";
         var game = controller.GetCurrentGame();
 
+        
+        Debug.Log(game);
+
         if (game == null)
             return;
 

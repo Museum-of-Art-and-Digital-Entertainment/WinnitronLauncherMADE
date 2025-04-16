@@ -87,7 +87,8 @@ public class Game
         savedMetadata = GM.Instance.data.LoadJson(Path.Combine(directory.FullName, "winnitron_metadata.json"));
 
         this.name = savedMetadata["title"].Value;
-        this.author = null; //No author stuff just yet
+        this.author = savedMetadata["author"];
+        this.description = savedMetadata["description"];
         this.screenshot = GetScreenshot();
         this.executable = Path.Combine(directory.FullName, savedMetadata["executable"]);
         this.slug = savedMetadata["slug"];
