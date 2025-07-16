@@ -70,7 +70,8 @@ CloseOnIdle:
 return
 
 ; Do this stuff when Esc is pressed
-~Esc::
+Esc::
+  Process, Close, %process_id_1%
   ExitApp
 return
 

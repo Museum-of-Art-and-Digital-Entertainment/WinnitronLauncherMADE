@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fb15314092ab9fa4ca5ccc2986b8bd22
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mars News
+  fontNames:
+  - Mars News
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9060216216412ba49a82c006bbf65f4c, type: 3}
+  - {fileID: 12800000, guid: 41cab2b8b5f213546aa3202b4fb3139e, type: 3}
+  - {fileID: 12800000, guid: 35cd041d39b4c34438554622402bdfb9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

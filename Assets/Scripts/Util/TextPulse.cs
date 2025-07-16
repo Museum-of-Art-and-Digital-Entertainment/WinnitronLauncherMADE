@@ -28,6 +28,8 @@ public class TextPulse : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+				vEnd = new Vector3(xEnd, yEnd, zEnd);
+
 		//transform.localScale = Auto.Wave(1f, Vector3(1f, 1f, 0f), Vector3(1f, 1f, 1f));
 		transform.localScale = Auto.Wave(speed, vStart, vEnd);
 	}

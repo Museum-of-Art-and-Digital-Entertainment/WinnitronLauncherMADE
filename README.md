@@ -1,14 +1,17 @@
+# MADE Winnitron
+
+This is a fork of the original winnitron project with various improvements to the system, mostly UI, for the excibit running at the MADE. 
+
+Contact jhann@themade.org or zanefaraday@gmail.com for more info on the project.
+
 # Winnitron Launcher
 
 A front-end launcher for arcade machines. Check out the indie game library at [winnitron.com](http://winnitron.com).
 
-## Questions?
-
-Want to build your own machine? Want your game on the Winnitron Network? [Check out our wiki](https://github.com/winnitron/winnitronlauncher/wiki).
+[Check out the wiki](https://github.com/winnitron/winnitronlauncher/wiki).
 
 ## Contributing
 
-Fork it. Make a feature branch. Open a PR. This is a Unity 2019.3.12f1 project.
+Feel free to suggest tweaks via PR or the MADE slack in the #tech-winnitron channel.
 
-Bugs and feature requests can go in [the GitHub issue tracker](https://github.com/winnitron/winnitronlauncher/issues).
-
+This is a Unity 2019.3.12f1 project.
